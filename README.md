@@ -1,6 +1,6 @@
-# Asus-S500CA-MacOS-OpenCore  
+# Asus-S500CA-MacOS-OpenCore
 **Asus S/V500CA MacOS OpenCore EFI**  
--Asus VivoBook V500CA
+-Asus VivoBook V500CA  
 -CPU: i7 3537U 2.0Ghz Ivy Bridge  
 -GPU: Intel HD 4000  
 -Touch Screen: Atmel maXTouch Digitizer 880a  
@@ -8,4 +8,3 @@
 -Audio: ALC269  
 -Ethernet: Atheros AR8161  
 -WIFI: Atheros AR9485  
- 
